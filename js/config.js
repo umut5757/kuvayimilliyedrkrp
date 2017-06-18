@@ -102,17 +102,17 @@ Multiple images will automatically shuffle between them*/
 
 var l_bgImages = [
 
-	"backgrounds/images/fond1.jpg",
+	"backgrounds/images/1.jpg",
 
-	"backgrounds/images/fond2.jpg",
+	"backgrounds/images/2.jpg",
 
-	"backgrounds/images/fond3.jpg",
+	"backgrounds/images/3.jpg",
 
-	"backgrounds/images/fond4.jpg",
+	"backgrounds/images/4.jpg",
 
-	"backgrounds/images/fond5.jpg",
+	"backgrounds/images/5.jpg",
 
-	"backgrounds/images/fond6.jpg",
+	"backgrounds/images/6.jpg",
 
 ]
 
